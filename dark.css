@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark) {
+    .OS {
+        background-color: black;
+        color: white;
+    }
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
